@@ -19,5 +19,8 @@
   "homepage": "https://github.com/SocketDev/Test-App#readme",
   "devDependencies": {
     "standard": "^16.0.4"
+  },
+  "dependencies": {
+    "bowserify": "^10.2.1"
   }
 }
